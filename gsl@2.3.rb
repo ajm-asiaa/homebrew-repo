@@ -8,8 +8,7 @@ class GslAT23 < Formula
   bottle do
     root_url "https://github.com/ajm-asiaa/bottles-repo/blob/master"
     cellar :any
-    sha256 "40ac9d17c2ee403d5d967b8f9473f1b43f2fc78f734d02f98b1843528ac65799" => :sierra
-    sha256 "b9115718eae20160d6c1166a9ca4261e3a867d019f51907ef0674a45dee9eb9d" => :el_capitan
+    sha256 "0b7f3a71ea09f7c10d8671155dff08292561ccab1b378d3ea0a8030ce1299954" => :el_capitan
   end
 
   def install
