@@ -6,7 +6,7 @@ class GslAT23 < Formula
   sha256 "562500b789cd599b3a4f88547a7a3280538ab2ff4939504c8b4ac4ca25feadfb"
 
   bottle do
-    root_url "https://github.com/ajm-asiaa/bottles-repo"
+    root_url "https://github.com/ajm-asiaa/bottles-repo/blob/master"
     cellar :any
     sha256 "40ac9d17c2ee403d5d967b8f9473f1b43f2fc78f734d02f98b1843528ac65799" => :sierra
     sha256 "b9115718eae20160d6c1166a9ca4261e3a867d019f51907ef0674a45dee9eb9d" => :el_capitan
